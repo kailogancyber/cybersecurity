@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Kai Logan
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,17 +40,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/kai-logan-75b675294/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/kailogancyber
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:bgilbert@meritamerica.org
+  email-url: kailogancyber@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Pahoa, Hawai'i
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
